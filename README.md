@@ -1,6 +1,6 @@
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![GitHub repo](https://img.shields.io/badge/GitHub-muhamadyusufseptian6--lab-green)](https://github.com/muhamadyusufseptian6-lab/makefun-best-heist-game-20261122-0559)
-[![Velvet Vault](https://img.shields.io/badge/Velvet%20Vault-heist%20game-gold)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/muhamadyusufseptian6-lab/makefun-best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/muhamadyusufseptian6-lab/makefun-best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 # Velvet Vault — A Midnight Heist
 
